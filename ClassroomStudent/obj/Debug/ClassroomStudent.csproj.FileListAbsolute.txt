@@ -1,0 +1,8 @@
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\bin\Debug\ClassroomStudent.exe.config
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\bin\Debug\ClassroomStudent.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\bin\Debug\ClassroomStudent.pdb
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\obj\Debug\ClassroomStudent.csproj.AssemblyReference.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\obj\Debug\ClassroomStudent.csproj.SuggestedBindingRedirects.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\obj\Debug\ClassroomStudent.csproj.CoreCompileInputs.cache
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\obj\Debug\ClassroomStudent.exe
+D:\Users\Furkan\Desktop\C#\c#  örnekler\ClassroomStudent\ClassroomStudent\obj\Debug\ClassroomStudent.pdb
